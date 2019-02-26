@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "p4p4Without_feedback.auto.manifest"
